@@ -1,2 +1,2 @@
 # portfolio
-- second commit through interface
+- third commit through command line
