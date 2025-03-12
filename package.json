@@ -12,6 +12,8 @@
   "dependencies": {
     "@fontsource-variable/inter-tight": "^5.2.5",
     "@gsap/react": "^2.1.2",
+    "@splinetool/react-spline": "^4.0.0",
+    "@splinetool/runtime": "^1.9.76",
     "gsap": "^3.12.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
